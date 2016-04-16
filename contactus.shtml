@@ -1,0 +1,20 @@
+<!--#include virtual="inc/header.inc" -->
+<h1>Contact Us</h1>
+<p>Feel free to get in touch if you have any queries.</p>
+
+<h2>Performance and Rights Enquiries</h2>
+<p>For all performance and rights related enquiries, or to purchase a CD, please contact Heather:</p>
+<p class="email"><a href="mailto:heather@feedtheducksproductions.com">heather@feedtheducksproductions.com</a></p>
+<p class="phone">07740 353386</p>
+
+<h2>Press and Patronage Enquiries</h2>
+<p>For all press and patronage enquiries please contact Jenni:</p>
+<p class="email"><a href="mailto:jenni@feedtheducksproductions.com">jenni@feedtheducksproductions.com</a></p>
+<p class="phone">07773 010094</p>
+
+<h2>Merchandise Enquiries</h2>
+<p>For technical enquiries please contact Simon:</p>
+<p class="email"><a href="mailto:simon@feedtheducksproductions.com">simon@feedtheducksproductions.com</a></p>
+<p class="phone">07818 278793</p>
+
+<!--#include virtual="inc/footer.inc" -->

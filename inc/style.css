@@ -1,0 +1,190 @@
+body {
+	background: #1a1a1a;
+	font-size: 12px;
+	color: #c1c1c1;
+	font-family: Tahoma, Bitstream Vera Sans, Sans-serif;
+	padding:20px;
+	margin:0px;
+	text-align: center;
+}
+
+a {
+	color: #34a4f3;
+	text-decoration: none;
+}
+
+h1, h2, h3 {
+	color: #ffb200;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-size: 2.0em;
+}
+
+h2 {
+	clear: both;
+	font-size: 1.3em;
+}
+
+h3 {
+	font-size: 1.0em;
+}
+
+img {
+	border: none;
+}
+
+#container {
+	text-align: left;
+	vertical-align: middle;	
+	margin: 0px auto;
+	padding: 0px;
+	width: 900px;
+	background: url('images/topcorner.png') top left no-repeat #2e2e2e;
+}
+
+#header {
+	background: url('images/banner.png') 15px 0px no-repeat;
+}
+
+#headertext {
+	display: none;
+}
+
+#header ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	height: 80px;
+}
+
+#header ul li {
+	padding: 0;
+	border: 0;
+	display: block;
+	float: right;
+}
+
+#header ul li a {
+	height: 80px;
+	width: 80px;
+	display: block;
+	line-height: 80px;
+	text-align: center;
+	color: #e6e6e6;
+}
+
+#header ul li a#aboutus {
+	background: url('images/aboutus.png') 0 0 no-repeat;
+}
+
+#header ul li a#aboutus:hover {
+	background-position: 0 -80px;
+}
+
+#header ul li a#team {
+	background: url('images/team.png') 0 0 no-repeat;
+}
+
+#header ul li a#team:hover {
+	background-position: 0 -80px;
+}
+
+#header ul li a#productions {
+	background: url('images/productions.png') 0 0 no-repeat;
+}
+
+#header ul li a#productions:hover {
+	background-position: 0 -80px;
+}
+
+#header ul li a#contactus {
+	background: url('images/contact.png') 0 0 no-repeat;
+}
+
+#header ul li a#contactus:hover {
+	background-position: 0 -80px;
+}
+
+#header ul li a#flock {
+	background: url('images/flock.png') 0 0 no-repeat;
+}
+
+#header ul li a#flock:hover {
+	background-position: 0 -80px;
+}
+#content {
+	background: #212121;
+	padding: 10px;
+	clear: both;
+}
+
+#email {
+	height: 22px;
+	line-height: 22px;
+	padding-left: 25px;
+	background: url('images/email.png') center left no-repeat;
+}
+
+#footer {
+	padding: 10px 10px 12px 10px;
+	border-top: 1px solid #1a1a1a;
+	font-size: 0.8em;
+	color: #888888;
+	background: url('images/bottomcorner.png') bottom left no-repeat;
+}
+
+#footer ul {
+	list-style-type: none;
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+#footer ul li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#footer a {
+	color: #888;
+}
+
+#frontpage a {
+	display: block;
+	margin: 10px 0;
+}
+
+.productionimg {
+	float: right;
+	margin-left: 15px;
+}
+
+.left {	
+	float: left;
+	margin: 10px 10px 10px 0;
+}
+.clear {
+	clear: both;
+}
+
+p.email, p.phone {
+	padding-left: 22px;
+	line-height: 16px;
+	margin-left: 16px;
+}
+
+p.email {
+	background: url("images/email.png") center left no-repeat;
+}
+
+p.phone {
+	background: url("images/phone.png") center left no-repeat;
+}
+
+.center {
+	text-align: center;
+}

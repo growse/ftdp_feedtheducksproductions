@@ -1,0 +1,8 @@
+<!--# include virtual="inc/header.inc" -->
+<div id="frontpage">
+	<a style="float: right;" href="aboutus.shtml"><img src="/images/aboutuspanel.png" /></a>
+	<a style="float: left;" href="http://www.apocalypse-the-musical.com"><img src="/images/apocalypsepanel.png" /></a>
+	<a style="float: right;" href="jointheflock.shtml"><img src="/images/flockpanel.png" /></a>
+	<a style="float: left;" href="http://www.happyland-the-musical.com"><img src="/images/happylandpanel.png" /></a>
+</div>
+<!--#include virtual="inc/footer.inc" -->
